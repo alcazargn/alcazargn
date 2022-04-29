@@ -1,0 +1,24 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #3d255f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+div {
+  position: relative;
+}
+h1{
+  font-size: 3vw;
+  position: absolute;
+  margin: 0;
+  background-color: #3d255f;
+  padding: 3px 10px 3px 10px;
+}
